@@ -1,0 +1,22 @@
+-- Vendedores para a Matriz (Filial 1)
+INSERT INTO vendedores (nome, filial_id, email, telefone) VALUES
+('João Silva', 1, 'joao@matriz.com', '11-9999-9999'),
+('Paulo Santos', 1, 'paulo@matriz.com', '11-9888-7777'),
+('Luciana Almeida', 1, 'luciana@matriz.com', '11-9777-6666'),
+('Ricardo Costa', 1, 'ricardo@matriz.com', '11-9666-5555'),
+('Maria Oliveira', 2, 'maria@sp.com', '11-9888-8888'),
+('Carlos Henrique', 2, 'carlos@sp.com', '11-9777-4444'),
+('Fernanda Souza', 2, 'fernanda@sp.com', '11-9666-3333'),
+('Eduardo Pereira', 2, 'eduardo@sp.com', '11-9555-2222'),
+('Carlos Souza', 3, 'carlos@rj.com', '21-9777-7777'),
+('Renata Santos', 3, 'renata@rj.com', '21-9666-6666'),
+('Felipe Martins', 3, 'felipe@rj.com', '21-9555-5555'),
+('Juliana Costa', 3, 'juliana@rj.com', '21-9444-4444'),
+('Fernanda Lima', 4, 'fernanda@pr.com', '41-9666-6666'),
+('Carlos Eduardo', 4, 'carloseduardo@pr.com', '41-9555-7777'),
+('Isabela Torres', 4, 'isabela@pr.com', '41-9444-8888'),
+('Marco Antônio', 4, 'marco@pr.com', '41-9333-9999'),
+('Antonio Carlos', 5, 'antonio@mg.com', '31-9555-5555'),
+('Mariana Almeida', 5, 'mariana@mg.com', '31-9444-4444'),
+('Eduardo Lima', 5, 'eduardo@mg.com', '31-9333-3333'),
+('Aline Oliveira', 5, 'aline@mg.com', '31-9222-2222');
